@@ -103,5 +103,5 @@ https://github.com/eladsegal/strategyqa
             ]
 ```
 
-**StrategyQA는 zero-shot으로 진행하여 사용한 예시 자료 없음. 번역 예시는 추후 자료에 적용 예정.**
-**데이터 세트에 대한 좀 더 자세한 사항은 https://blog.sionic.ai/articles 참고**
+**StrategyQA는 zero-shot으로 진행하여 사용한 예시 자료 없음. Few-shot 예시는 추후 자료에 적용 예정.**             
+**데이터 세트에 대한 좀 더 자세한 사항은 https://blog.sionic.ai/articles 참고**                   
