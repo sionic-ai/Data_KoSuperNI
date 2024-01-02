@@ -102,6 +102,15 @@ https://github.com/eladsegal/strategyqa
                 "사실 1:아트 데코는 1925년 파리 박람회에서 이름을 따왔습니다. 사실 2: 르 코르뷔지에는 1925년에 아트 데코를 주제나 스타일로 언급하는 기사를 썼습니다. 사실 3: 르 코르뷔지에는 프랑스의 건축가였습니다."
             ]
 ```
+원본 데이터 출처
+```
+@article{geva2021strategyqa,
+  title = {{Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies}},
+  author = {Geva, Mor and Khashabi, Daniel and Segal, Elad and Khot, Tushar and Roth, Dan and Berant, Jonathan},
+  journal = {Transactions of the Association for Computational Linguistics (TACL)},
+  year = {2021},
+}
+```
 
 **StrategyQA는 zero-shot으로 진행하여 사용한 예시 자료 없음. Few-shot 예시는 추후 자료에 적용 예정.**               
 **데이터 세트에 대한 좀 더 자세한 사항은 https://blog.sionic.ai/articles 참고**        
