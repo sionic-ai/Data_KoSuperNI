@@ -21,7 +21,7 @@ https://github.com/eladsegal/strategyqa
 - 위의 질문과 같은 전략적 질문에는 어떤 것이 있는지 확인하고 멀티 홉으로 분해하여 데이터를 구축
 - QA 데이터 세트라고는 하나 대답은 ‘Yes/No’의 선택의문에 불과하여 기존의 질의응답 데이터 세트와는 구별된다.
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/483cce15-7292-432a-8dd4-12b51038eae2/23631784-7383-4519-ba18-8a7d3eb47ef8/Untitled.png
+![worker](./worker.png)
 
 ## 주석자 편향 및 벤치마크 데이터로서의 난이도 조정을 위한 노력
 
@@ -29,7 +29,7 @@ https://github.com/eladsegal/strategyqa
 
 ### 주석자의 작업 과정
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/483cce15-7292-432a-8dd4-12b51038eae2/750dc62d-bc39-4038-848b-40b0556c973c/Untitled.png)
+![paper](./paper.png)
 
 (1) (CQW, §3.1) 작업자는 용어(T)와 예상 답변(A)을 제시받고 질문(Q)과 답변에 필요한 사실(F1,F2)을 작성
 
@@ -44,7 +44,7 @@ https://github.com/eladsegal/strategyqa
 
 ### 번역 유용성
 
-![wordclouds.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/483cce15-7292-432a-8dd4-12b51038eae2/89ec413b-c344-47d9-a995-7e0fdd8fd841/wordclouds.png)
+![wordclouds](./wordclouds.png)
 
 - 위의 워드 클라우드 시각화에서 알 수 있는 것처럼 영어 특정적인 데이터라고 보기 어려워 한국어로 번역했을 때도 사용 가치가 높음
 - 사실 관계를 추적하는 추론 데이터로 영어뿐 아니라 한국어에서 필요한 과정임
