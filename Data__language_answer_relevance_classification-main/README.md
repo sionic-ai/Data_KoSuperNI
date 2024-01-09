@@ -1,4 +1,4 @@
-ㄹ# Data__language_answer_relevance_classification
+# Data__language_answer_relevance_classification
 
 ## 데이터 개관       
 
