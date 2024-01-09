@@ -1,6 +1,12 @@
 ㄹ# Data__language_answer_relevance_classification
 
-## 데이터 설명 
+## 데이터 개관       
+
+| 데이터 이름 | 내용 | 범주 | 도메인 | 입력 언어 | 출력 언어 |
+| --- | --- | --- | --- | --- | --- |
+| task226_english_language_answer_relevance_classification | 주어진 질의응답 쌍에서 어느 응답이 더 수용가능한지 평가 | [수용성 테스트] Answerability Classification | 코드 -> Repo -> Stack Overflow, Linguistics | 영어 | 영어 |
+
+
 https://github.com/allenai/natural-instructions 에 수록된 데이터 중에 하나   
 
 - 총 데이터 개수 478개     
