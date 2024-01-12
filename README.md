@@ -17,5 +17,5 @@ https://blog.sionic.ai/StrategyQA
     -  코드 -> Repo -> Stack Overflow, Linguistics  
 
 
-- task1290_Extreme-Summarization 한국어 번역 데이터 세트 :    
+- task1290_Extreme-Summarization 한국어 번역 데이터 세트 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data__226language_answer_relevance_classification-main                   
     - 주어진 기사 요약      
