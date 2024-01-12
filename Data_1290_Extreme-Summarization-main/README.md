@@ -13,7 +13,8 @@ https://github.com/EdinburghNLP/XSum/tree/master
 총 데이터 개수 6,490개      
 
 # 데이터 처리    
-400 Bad Request에 의한 오류 3개는 다음과 같이 현대 영어라고 보기 어려워 삭제함   
+- 400 Bad Request에 의한 오류 3개는삭제함
+- 삭제된 데이터 예시
 "id": "task1290-71ccbafc1df24f8ba5066d1f43353eb9",             
 Mae rhai cleifion canser yng Nghymru yn dweud eu bod dal heb dderbyn cefnogaeth gan weithiwr allweddol i gydlynu eu gofal.                
 
@@ -23,15 +24,16 @@ Mae rhai cleifion canser yng Nghymru yn dweud eu bod dal heb dderbyn cefnogaeth 
 당신은 영어 글을 보고 한국어로 번역해주는 전문적인 번역가입니다. 입력한 글의 내용을 모두 포함하면서 최대한 자연스러운 표현으로 생성해 주세요. 생성 내용은 상식에 기반한 사실이어야 합니다.
 
 
-    # 제약 조건- 주어진 내용은 보통 한 두개의 문장으로 구성되어 있다.
+    # 제약 조건      
+    - 주어진 내용은 보통 한 두개의 문장으로 구성되어 있다.   
     
-    - 입력한 글 내용을 모두 포함한다.
+    - 입력한 글 내용을 모두 포함한다.  
     
-    - 생성 내용은 상식에 기반한 사실이어야 한다.
+    - 생성 내용은 상식에 기반한 사실이어야 한다.  
     
-    - 최대한 자연스러운 한국어 표현으로 번역한다.
+    - 최대한 자연스러운 한국어 표현으로 번역한다.  
     
-    - 주어진 글의 내용 이외의 새로운 내용을 절대로 생성하면 안된다.
+    - 주어진 글의 내용 이외의 새로운 내용을 절대로 생성하면 안된다.   
 ```
 
 
