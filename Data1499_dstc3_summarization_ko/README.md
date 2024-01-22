@@ -2,9 +2,9 @@
 # 데이터 개관
 | 데이터 이름 | 내용 | 범주 | 도메인 | 입력 언어 | 출력 언어 |
 | --- | --- | --- | --- | --- | --- |
-| task_1499_dstc3_summarization | 과제 기반 질의응답에 대한 요약 | [요약] Summarization | 호텔 및 식당 예약  | 영어 | 영어 |
+| task_1499_dstc3_summarization | 과제 기반 질의응답에 대한 요약 | [요약] Summarization | 호텔 및 식당 예약  | 영어 -> 한국어 | 영어 -> 한국어 |
 
-저장소 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data1499_dstc3_summarization_ko  
+데이터 저장 : https://github.com/sionic-ai/Data_KoSuperNI/blob/main/Data1499_dstc3_summarization_ko/task1499_dstc3_summarization_ko.json
    
 
 # 프롬프트 예시
