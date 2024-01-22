@@ -5,11 +5,8 @@ https://blog.sionic.ai/Super_NaturalInstructions
     
 - task169_strategyQA 한국어 번역 데이터 세트 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data_StrategyQA    
   - 특정 질문이 주어졌을 때 그 질문에 답하기 위해 알아야 할 사실을 기술    
-  - -위키피디아 기반 질의 응답 데이터   
-
-
-- StrategyQA 데이터 세트에 대한 추가 설명      
-https://blog.sionic.ai/StrategyQA    
+  - 위키피디아 기반 질의 응답 데이터   
+  - StrategyQA 데이터 세트에 대한 추가 설명 : https://blog.sionic.ai/StrategyQA    
 
      
 - task226_english_language_answer_relevance_classification 한국어 번역 데이터 세트 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data__language_answer_relevance_classification-main         
@@ -19,3 +16,6 @@ https://blog.sionic.ai/StrategyQA
 
 - task1290_Extreme-Summarization 한국어 번역 데이터 세트 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data__226language_answer_relevance_classification-main                   
     - 주어진 기사 요약      
+
+- 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화
+- https://github.com/NathanDuran/DSTC3-Corpus
