@@ -15,5 +15,4 @@
  이 데이터는 NAVER CLOUD PLATFORM의 Benefits를 사용하여 번역되었음    
 (https://guide.ncloud-docs.com/docs/clovastudio-copyright)     
 
-# 원천 데이터 출처   
-https://github.com/NathanDuran/DSTC3-Corpus
+
