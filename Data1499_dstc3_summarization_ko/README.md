@@ -23,6 +23,31 @@
 - 최대한 자연스러운 한국어 표현으로 번역한다.
 ```
 
+# 사용한 퓨샷 예시
+```
+System: 'Thank you for calling the Cambridge Information system. Your call will be recorded for research purposes. You may ask for information about a place to eat, such as a restaurant, a pub, or a cafe. How may I help you?'
+User: 'im looking for an expensive restaurant and it should be in the addenbrookes area'
+System: 'Are you looking for somewhere near a particular venue? For example, Sidney Sussex College, Williams Art and Antiques, or Primavera.'
+User: 'i dont care'
+System: 'The Lucky Star is an outstanding restaurant, it's in the Addenbrooke's part of town and it's in the expensive price range.'
+User: 'whats the address'
+System: 'The Lucky Star is on Unit.'
+User: 'what type of food'
+System: 'The Lucky Star serves chinese food.'
+User: 'thank you good bye'
+
+시스템: '캠브리지 정보 시스템에 전화해 주셔서 감사합니다. 귀하의 통화는 연구 목적으로 녹음됩니다. 식당, 펍 또는 카페와 같은 식사 장소에 대한 정보를 요청할 수 있습니다. 무엇을 도와드릴까요?'
+사용자: '저는 애든브룩스 지역에 있는 비싼 레스토랑을 찾고 있어요'
+시스템: '특정 장소 근처에 있는 곳을 찾고 있나요? 예를 들어 시드니 서섹스 칼리지, 윌리엄스 아트 앤 앤틱스 또는 프리마베라 입니다.'
+사용자: '상관없어요'
+시스템: '럭키 스타'는 훌륭한 레스토랑이며, 애든브룩스 지역에 있고 가격대가 비싼 편입니다.'
+사용자: '주소가 어떻게 되나요'
+시스템: '럭키 스타는 유닛에 있습니다.'
+사용자: '어떤 종류의 음식이 있나요'
+시스템: '럭키 스타는 중화요리를 제공합니다.'
+사용자: '고마워요. 안녕히 계세요'
+```
+
     
 # 출력된 번역 예시
 
