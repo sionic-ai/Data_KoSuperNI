@@ -17,6 +17,6 @@ https://blog.sionic.ai/Super_NaturalInstructions
 - task1290_Extreme-Summarization 한국어 번역 데이터 세트 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data__226language_answer_relevance_classification-main                   
     - 주어진 기사 요약       
    
--task1499_dstc3_summarization_ko    
-- 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화(Task-oriented Domain-specific 데이터 세트에 가까움)와 이를 요약한 데이터    
-- https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data1499_dstc3_summarization_ko       
+- task1499_dstc3_summarization_ko    
+      - 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화(Task-oriented Domain-specific 데이터 세트에 가까움)와 이를 요약한 데이터    
+      - https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data1499_dstc3_summarization_ko       
