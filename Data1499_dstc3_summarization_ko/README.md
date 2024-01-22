@@ -1,6 +1,27 @@
 
 # 데이터 개관
-원천 데이터 출처 : https://github.com/NathanDuran/DSTC3-Corpus    
+| 데이터 이름 | 내용 | 범주 | 도메인 | 입력 언어 | 출력 언어 |
+| --- | --- | --- | --- | --- | --- |
+| task_1499_dstc3_summarization | 과제 기반 질의응답에 대한 요약 | [요약] Summarization | 호텔 및 식당 예약  | 영어 | 영어 |
+
+저장소 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data1499_dstc3_summarization_ko  
+   
+
+# 프롬프트 예시
+
+```
+당신은 영어 글을 보고 한국어로 번역해주는 전문적인 번역가입니다. 사용자가 입력한 영어 글을 한국어로 번역해 주세요.
+
+# 제약조건
+
+- 주어진 글은 고객이 식당이나 카페 등의 정보를 물어보기 위한 상담 대화 내용이다.
+
+- 입력한 글 내용을 모두 포함한다.
+
+- 생성 내용은 상식에 기반한 사실이어야 한다.
+
+- 최대한 자연스러운 한국어 표현으로 번역한다.
+```
 
     
 # 출력된 번역 예시
@@ -15,4 +36,5 @@
  이 데이터는 NAVER CLOUD PLATFORM의 Benefits를 사용하여 번역되었음    
 (https://guide.ncloud-docs.com/docs/clovastudio-copyright)     
 
-
+# 원천 데이터 출처   
+https://github.com/NathanDuran/DSTC3-Corpus      
