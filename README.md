@@ -1,7 +1,7 @@
-- 데이터 세트에 대한 설명        
+- 전체 데이터 세트에 대해 설명한 블로그 글           
 https://blog.sionic.ai/Super_NaturalInstructions     
     
-  
+  - 새부 데이터 명세   
     
 - task169_strategyQA 한국어 번역 데이터 세트 : https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data_StrategyQA    
   - 특정 질문이 주어졌을 때 그 질문에 답하기 위해 알아야 할 사실을 기술    
@@ -18,5 +18,5 @@ https://blog.sionic.ai/Super_NaturalInstructions
     - 주어진 기사 요약       
    
 - task1499_dstc3_summarization_ko    
-      - 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화(Task-oriented Domain-specific 데이터 세트에 가까움)와 이를 요약한 데이터    
-      - https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data1499_dstc3_summarization_ko       
+    - 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화(Task-oriented Domain-specific 데이터 세트에 가까움)와 이를 요약한 데이터    
+    - https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data1499_dstc3_summarization_ko       
