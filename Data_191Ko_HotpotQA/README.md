@@ -1,4 +1,4 @@
-![Data_192Ko_HotpotQA](https://arxiv.org/pdf/1809.09600.pdf)
+[Data_192Ko_HotpotQA](https://arxiv.org/pdf/1809.09600.pdf)
 
 
 
@@ -40,7 +40,7 @@ id": "task191-23ebcb36816346a78b51534882142dcc",
 - 한국어 번역 데이터는 NAVER CLOUD PLATFORM의 Benefits를 사용하여 번역되었음
 (https://guide.ncloud-docs.com/docs/clovastudio-copyright)
 
-- 생성 모델을 번역에 사용과 관련한 난이도 문제는 ![sionic-ai/Data_KoSuperNI](https://github.com/sionic-ai/Data_KoSuperNI/blob/main/Data__226language_answer_relevance_classification-main/README.md) 참고
+- 생성 모델을 번역에 사용과 관련한 난이도 문제는 [sionic-ai/Data_KoSuperNI](https://github.com/sionic-ai/Data_KoSuperNI/blob/main/Data__226language_answer_relevance_classification-main/README.md) 참고
 
 - 자동 번역후에는 사람의 손을 거쳐 오류는 수정하는 과정을 거쳤으나 하나의 이름을 두 가지 명칭으로 번역하는 등의 일부 오류가 남아 있을 수 있음
 
