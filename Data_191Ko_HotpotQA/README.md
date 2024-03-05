@@ -1,6 +1,12 @@
-[Data_192Ko_HotpotQA](https://arxiv.org/pdf/1809.09600.pdf)
 
 
+#관련 논문
+[Data_191Ko_HotpotQA](https://arxiv.org/pdf/1809.09600.pdf)
+
+
+# 번역 데이터 다운로드
+https://docs.google.com/spreadsheets/d/1nO2XilM_gLEXjEReV0UsF8Og_OYQYPJRBpHmCKUgWFw/edit?usp=sharing
+데이터 크기(45,065KB)때문에 위의 구글 드라이브에 보관
 
 # 데이터 개관   
 
