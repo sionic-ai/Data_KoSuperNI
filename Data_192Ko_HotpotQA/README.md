@@ -62,10 +62,9 @@ Q: 요도바시 외에 어떤 구에 통합되어 주요한 구가 된 곳은 �
 
 
 # 번역 데이터 예시       
-| input | input | output | output |
-| --- | --- | --- | --- |
-| Slow Turning was singer-songwriter John Hiatt's ninth album, released in 1988. It provided Hiatt's only significant radio hit with the title track, which features the memorable line "I'm yelling at the kids in the back, 'cause they're banging like Charlie Watts". The single "Slow Turning" was also featured in the 2002 motion picture drama the "The Rookie" which starred Dennis Quaid. "Feels Like Rain" would later be covered by Buddy Guy on an album of the same name and was featured in the 2004 Kate Hudson movie "Raising Helen". "Drive South" would become a country hit for Suzy Bogguss in the early 1990s. "Icy Blue Heart" was covered by Emmylou Harris in her 1989 album "Bluebird", with backing vocals by Bonnie Raitt. Ilse DeLange recorded "It'll Come To You"" and "Feels Like Rain" on her live album "Dear John". During the barroom scene in the Film "Thelma and Louise", the band is playing "Tennessee Plates" (Charlie Sexton recorded the song for the soundtrack album). Question: What 2002 Walt Disney film starring Dennis Quaid features the single "Slow Turning"? Answer: The Rookie | 슬로우 터닝은 싱어송라이터 존 하이앗의 아홉 번째 앨범으로 1988년에 발매되었습니다. 이 앨범은 타이틀 트랙으로 하이엇의 유일한 주요 라디오 히트곡을 제공했으며, "뒷좌석에 있는 아이들에게 소리를 지르고 있어요, 찰리 왓츠처럼 쾅쾅거리고 있거든요"라는 인상적인 가사가 담겨 있습니다. 싱글 "슬로우 터닝"은 데니스 퀘이드가 주연한 2002년 영화 드라마 "더 루키"에도 수록되었습니다. "필스 라이크 레인"은 나중에 버디 가이가 같은 제목의 앨범에서 커버했고, 2004년 케이트 허드슨이 출연한 영화 "라이징 헬렌"에 수록되었습니다. "드라이브 사우스"는 1990년대 초 수지 보거즈가 컨트리 히트곡으로 만들었습니다. "아이시 블루 하트"는 에밀루 해리스가 1989년 앨범 "블루버드"에서 보니 레이트의 백 보컬로 커버했습니다. 일세 드랑게르는 자신의 라이브 앨범 "디어 존"에 "잇윌 컴 투 유"와 "필스 라이크 레인"을 녹음했습니다. 영화 "델마와 루이스"의 바 장면에서 밴드가 연주하는 곡은 "테네시 플레이트"(찰리 섹스턴이 사운드트랙 앨범을 위해 노래를 녹음함)입니다.<br>###<br>질문: 데니스 퀘이드가 주연한 2002년 월트 디즈니 영화에서 싱글 "슬로우 터닝"이 수록된 영화는 무엇인가요?<br>답변: 더 루키 | 싱글 '슬로우 터닝'은 2002년 데니스 퀘이드 주연의 영화 드라마 더 루키에도 수록되었습니다. | The single Slow Turning was also featured in the 2002 motion picture drama the The Rookie which starred Dennis Quaid. |
-
+| input | output |
+| --- | --- |
+| 슬로우 터닝은 싱어송라이터 존 하이앗의 아홉 번째 앨범으로 1988년에 발매되었습니다. 이 앨범은 타이틀 트랙으로 하이엇의 유일한 주요 라디오 히트곡을 제공했으며, "뒷좌석에 있는 아이들에게 소리를 지르고 있어요, 찰리 왓츠처럼 쾅쾅거리고 있거든요"라는 인상적인 가사가 담겨 있습니다. 싱글 "슬로우 터닝"은 데니스 퀘이드가 주연한 2002년 영화 드라마 "더 루키"에도 수록되었습니다. "필스 라이크 레인"은 나중에 버디 가이가 같은 제목의 앨범에서 커버했고, 2004년 케이트 허드슨이 출연한 영화 "라이징 헬렌"에 수록되었습니다. "드라이브 사우스"는 1990년대 초 수지 보거즈가 컨트리 히트곡으로 만들었습니다. "아이시 블루 하트"는 에밀루 해리스가 1989년 앨범 "블루버드"에서 보니 레이트의 백 보컬로 커버했습니다. 일세 드랑게르는 자신의 라이브 앨범 "디어 존"에 "잇윌 컴 투 유"와 "필스 라이크 레인"을 녹음했습니다. 영화 "델마와 루이스"의 바 장면에서 밴드가 연주하는 곡은 "테네시 플레이트"(찰리 섹스턴이 사운드트랙 앨범을 위해 노래를 녹음함)입니다.<br>###<br>질문: 데니스 퀘이드가 주연한 2002년 월트 디즈니 영화에서 싱글 "슬로우 터닝"이 수록된 영화는 무엇인가요?<br>답변: 더 루키 | 싱글 '슬로우 터닝'은 2002년 데니스 퀘이드 주연의 영화 드라마 더 루키에도 수록되었습니다. |
 
 
 
