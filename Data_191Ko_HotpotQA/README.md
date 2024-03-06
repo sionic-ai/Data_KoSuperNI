@@ -5,7 +5,7 @@
 
 # 번역 데이터 다운로드
 데이터 크기(45,065KB)때문에 아래 구글 드라이브에 보관     
-https://drive.google.com/file/d/1HlXyWEIL1KwRVp-beo6MwK4Q3-LsnQ_P/view?usp=sharing
+https://docs.google.com/spreadsheets/d/1Xyh9h_VGFqGb4UCNOl7qrMLShA2lz71xiarsUoUdlNg/edit?usp=sharing
 
 # 데이터 개관   
 
